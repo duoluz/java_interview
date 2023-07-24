@@ -72,6 +72,7 @@ Bizning ilovamiz oddiy BLOG tizimi funksiyalaridan tashkil topgan.
 * Ilovani ishga tushiring va uning to'g'ri ishlashiga ishonch hosil qiling. 
 * Ilova kodlarini (https://github.com/duoluz/java_interview)  projectga o’zingizning ism familiya (damir_asamatdinov) ko’rinishidagi branchga yuklang.
 
+
 ### Qoshimcha ma'lumotlar
 Bu test loyihasining asosiy versiyasi bo'lib, unda foydalanuvchi autentifikatsiyasi, blogni tahrirlash va hokazolar kabi qo'shimcha funktsiyalar bilan kengaytirishingiz mumkin. 
 Tekshirishni osonlashtirish uchun kodingizni sharhlashni unutmang.
