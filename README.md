@@ -98,3 +98,5 @@ Testcontainers ассоан интеграция билан боғлиқ тет�
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 * [Validation](https://spring.io/guides/gs/validating-form-input/)
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+
+###  Барча номзодларга омад тилаймиз!
