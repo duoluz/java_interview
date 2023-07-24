@@ -2,7 +2,7 @@
 
 Assalomu alaykum! 
 Java Spring dasturchisi uchun test loyihasini taqdim etish uchun, keling, Spring Boot yordamida oddiy veb-ilovani yarataylik. 
-Bizning ilovamiz oddiy BLOGGING taqdim etadi.
+Bizning ilovamiz oddiy BLOG tizimi funksiyalaridan tashkil topgan.
 
 ### Texnologiyalar:
 * Java 8+
